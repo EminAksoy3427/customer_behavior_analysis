@@ -85,4 +85,4 @@ Built a "Customer Behavior Dashboard" tracking:
 ## 📢 Author
 * **Name:** [Muhammet Emin Aksoy]
 * **Role:** MIS Student
-* **Contact:** [eminaks27qgmail.com]
+* **Contact:** [eminaks27@gmail.com]
